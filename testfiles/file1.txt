@@ -1,0 +1,10 @@
+Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms
+that support Java without the need for recompilation.
+
+Java applications are typically compiled into bytecode that can run on any Java Virtual Machine (JVM) regardless of the underlying
+computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them.
+
+Multithreading is one of the powerful features of Java. It allows concurrent execution of two or more threads for maximum utilization
+of CPU. Each thread runs parallel to each other, improving performance and responsiveness of applications.
+

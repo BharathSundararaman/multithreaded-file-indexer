@@ -1,0 +1,8 @@
+Software engineering involves designing, developing, testing, and maintaining software systems. A well-designed system emphasizes
+modularity, maintainability, scalability, and performance.
+
+Search engines rely heavily on indexing techniques. An inverted index is a common data structure used to map words to documents.
+Efficient indexing allows rapid retrieval of relevant information without scanning every document repeatedly.
+
+Modern applications must balance performance with readability and maintainability. Clean architecture and separation of concerns
+help developers manage complexity in large systems.
